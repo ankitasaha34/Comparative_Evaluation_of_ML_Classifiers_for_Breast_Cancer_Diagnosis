@@ -34,6 +34,10 @@ This project addresses the following challenges:
 The dataset is sourced from the **Breast Cancer Wisconsin (Diagnostic) Dataset** from the UCI Machine Learning Repository and contains 30 numeric features extracted from digitized breast mass images.
 
 ---
+## Dataset  
+
+- **Source:**https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+
 
 ## Methodology  
 
